@@ -4,8 +4,6 @@
 
 Hi, I'm Wilson. I truly enjoy creating applications because they allow me to realize my ideas. I've been investing at least 5 hours every day in honing my iOS coding abilities. I also use Dart and flutter to create cross-platform applications. Also, I have a strong enthusiasm for user interface since I want the people who will use my projects to enjoy and value my efforts.
 
-Skills: Swift / SwiftUI / Flutter / Dart 
-
 ![Wilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilsonmungai&show_icons=true&theme=transparent)
 [![Wilson's GitHub Streak](https://streak-stats.demolab.com/?user=wilsonmungai&theme=transparent)](https://git.io/streak-stats)
 [![Skills:](https://skillicons.dev/icons?i=swift,flutter,vscode,firebase,github,figma,stackoverflow,git&theme=light)](https://skillicons.dev)
