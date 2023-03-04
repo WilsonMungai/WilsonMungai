@@ -5,4 +5,4 @@ Hi, I'm Wilson. I truly enjoy creating applications because they allow me to rea
 ![Wilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilsonmungai&show_icons=true&theme=transparent)
 [![Wilson's GitHub Streak](https://streak-stats.demolab.com/?user=wilsonmungai&theme=transparent)](https://git.io/streak-stats)
 [![Skills:](https://skillicons.dev/icons?i=swift,flutter,vscode,firebase,github,figma,stackoverflow,git&theme=light)](https://skillicons.dev)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonmungai&layout=compact&theme=transparent)](https://github.com/wilsonmungai/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonmungai&layout=compact&theme=transparent)](https://github.com/wilsonmungai/github-readme-stats) -->
