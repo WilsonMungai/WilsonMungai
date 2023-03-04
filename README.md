@@ -10,6 +10,6 @@ I enjoy creating applications because they allow me to realize my ideas. I've be
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonmungai&layout=compact&theme=transparent)](https://github.com/wilsonmungai/github-readme-stats) -->
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/WilsonMungai)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/wilson-mungai/)  
+<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/WilsonMungai)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/wilson-mungai/)   -->
 
 
