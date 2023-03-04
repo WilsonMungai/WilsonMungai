@@ -3,7 +3,7 @@
 ### Hi there 👋, I'm Wilson
 #### Mobile Application Developer
 
-Hi, I'm Wilson. I truly enjoy creating applications because they allow me to realize my ideas. I've been investing at least 5 hours every day in honing my iOS coding abilities. I also use Dart and flutter to create cross-platform applications. Also, I have a strong enthusiasm for user interface since I want the people who will use my projects to enjoy and value my efforts.
+I enjoy creating applications because they allow me to realize my ideas. I've been investing at least 5 hours every day in honing my iOS coding abilities. I also use Dart and flutter to create cross-platform applications. Also, I have a strong enthusiasm for user interface since I want the people who will use my projects to enjoy and value my efforts.
 
 ![Wilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilsonmungai&show_icons=true&theme=transparent)
 [![Wilson's GitHub Streak](https://streak-stats.demolab.com/?user=wilsonmungai&theme=transparent)](https://git.io/streak-stats)
@@ -11,6 +11,6 @@ Hi, I'm Wilson. I truly enjoy creating applications because they allow me to rea
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonmungai&layout=compact&theme=transparent)](https://github.com/wilsonmungai/github-readme-stats) -->
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/WilsonMungai)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/wilson-mungai/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/WilsonMungai)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/wilson-mungai/)  
 
 
