@@ -1,7 +1,7 @@
 <img src="https://github.com/WilsonMungai/WilsonMungai/blob/main/readme_banner.png"/>
 <h1 align="center"> Hi there 👋, I'm Wilson</h1>
 
-I enjoy creating applications because they allow me to realize my ideas. I've been investing at least 5 hours every day in honing my iOS coding abilities. I also use Dart and flutter to create cross-platform applications. Also, I have a strong enthusiasm for user interface since I want the people who will use my projects to enjoy and value my efforts.
+I enjoy creating applications because they allow me to realize my ideas. I've been investing at least five hours every day in honing my Swift & SwiftUI coding abilities. I also use Dart and Flutter to create cross-platform applications. Additionally, I have a strong enthusiasm for user interface since I want the people who will use my projects to enjoy and value my efforts.
 
 <h2 align="center"> Featured Projects </h2>
 <a href="https://github.com/WilsonMungai/iTrailer">
