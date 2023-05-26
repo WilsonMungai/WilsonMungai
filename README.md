@@ -16,11 +16,12 @@ I enjoy creating applications because they allow me to realize my ideas. I've be
 <a href="https://github.com/WilsonMungai/news">
     <img src="https://user-images.githubusercontent.com/116983545/229996279-407e4111-75af-4d65-91fe-a893b0f790e9.png" width=200/>
 </a>
-
+        
 <p align="justify>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=wilsonmungai&show_icons=true&theme=transparent" width="400" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=wilsonmungai&count_private=true&show_icons=true&theme=transparent" width="400" /></a>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=wilsonmungai&theme=transparent" width="425" /></a>
 </p>
+                                                                                                                                   
 <h2 align="center"> Languages & Tools I use: </h2>
 <p align="center">
     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=swift,flutter,vscode,firebase,github,figma,stackoverflow,git,postman&theme=light"/></a>
