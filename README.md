@@ -4,6 +4,7 @@
 I enjoy creating applications because they allow me to realize my ideas. I've been investing at least five hours every day in honing my Swift & SwiftUI coding abilities. I also use Dart and Flutter to create cross-platform applications. Additionally, I have a strong enthusiasm for user interface since I want the people who will use my projects to enjoy and value my efforts.
 
 <h2 align="center"> Featured Projects </h2>
+<p align="center">
 <a href="https://github.com/WilsonMungai/iTrailer">
     <img src="https://user-images.githubusercontent.com/116983545/229994913-a3ba6e84-34fb-4e68-991a-c57370d79ce8.png" width=200/>
 </a>
@@ -16,15 +17,41 @@ I enjoy creating applications because they allow me to realize my ideas. I've be
 <a href="https://github.com/WilsonMungai/news">
     <img src="https://user-images.githubusercontent.com/116983545/229996279-407e4111-75af-4d65-91fe-a893b0f790e9.png" width=200/>
 </a>
-        
-<p align="justify>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=wilsonmungai&count_private=true&show_icons=true&theme=transparent" width="400" /></a>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=wilsonmungai&theme=transparent" width="425" /></a>
 </p>
-                                                                                                                                   
+
+<table>
+    <tr>
+        <td colspan="2">
+        <strong><samp>Stats:</samp></strong>
+        </td>
+        <td colspan="2">
+        <strong><samp>Streak:</samp></strong>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" rowspan="2">
+        <a href="https://github-readme-stats.vercel.app/api?username=wilsonmungai&count_private=true&hide_border=true&show_icons=true&theme=tokyonight">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wilsonmungai&count_private=true&hide_border=true&show_icons=true&theme=tokyonight">
+        </a>
+        </td>
+        <td colspan="2" rowspan="2">
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=wilsonmungai&hide_border=true&theme=tokyonight">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=wilsonmungai&hide_border=true&theme=tokyonight">
+        </a>
+        </td>
+    </tr>
+</table>
+
 <h2 align="center"> Languages & Tools I use: </h2>
 <p align="center">
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=swift,flutter,vscode,firebase,github,figma,stackoverflow,git,postman&theme=light"/></a>
+    <img src="https://img.icons8.com/color/480/000000/swift.png" width=65></a>
+    <img src="https://img.icons8.com/color/480/000000/swiftui.png" width=65></a>
+    <img src="https://img.icons8.com/color/480/000000/xcode.png" width=65></a>
+    <img src="https://img.icons8.com/color/480/000000/github.png" width=65></a>
+    <img src="https://img.icons8.com/color/480/000000/firebase.png" width=65></a>
+    <img src="https://img.icons8.com/color/480/000000/figma.png" width=65></a>
+    <img src="https://img.icons8.com/color/480/000000/flutter.png" width=65></a>
+    <img src="https://img.icons8.com/color/480/000000/dart.png" width=65></a>
 </p>
                                                                
                                                                                                               
