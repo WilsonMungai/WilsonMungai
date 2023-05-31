@@ -52,6 +52,8 @@ I enjoy creating applications because they allow me to realize my ideas. I've be
     <img src="https://img.icons8.com/color/480/000000/figma.png" width=65></a>
     <img src="https://img.icons8.com/color/480/000000/flutter.png" width=65></a>
     <img src="https://img.icons8.com/color/480/000000/dart.png" width=65></a>
+    <img src="https://img.icons8.com/color/480/000000/visual-studio-code-2019.png" width=65></a>
+    
 </p>
                                                                
                                                                                                               
