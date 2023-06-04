@@ -1,7 +1,9 @@
 <img src="https://github.com/WilsonMungai/WilsonMungai/blob/main/readme_banner.png"/>
 <h1 align="center"> Hi there 👋, I'm Wilson</h1>
 
-I enjoy creating applications because they allow me to realize my ideas. I've been investing at least five hours every day in honing my Swift & SwiftUI coding abilities. I also use Dart and Flutter to create cross-platform applications. Additionally, I have a strong enthusiasm for user interface since I want the people who will use my projects to enjoy and value my efforts.
+<p>
+I'm a highly talented software application developer with extensive experience developing native and cross-platform applications.&nbsp;I'm passionate about developing unique and user-friendly mobile applications that have a positive impact.&nbsp;I have successfully developed a variety of applications using software application development frameworks and programming languages such as Swift,&nbsp;SwifUI,&nbsp;Dart,&nbsp;Kotlin,&nbsp;Javascript,&nbsp;Flutter,&nbsp;and&nbsp;React-Native.&nbsp;I take pride in my ability to turn concepts into visually appealing and functional mobile applications.
+</p>
 
 <h2 align="center"> Featured Projects </h2>
 <p align="center">
