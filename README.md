@@ -2,7 +2,7 @@
 <h1 align="center"> Hi there 👋, I'm Wilson</h1>
 
 <p>
-I'm a highly talented software application developer with extensive experience developing native and cross-platform mobile applications.&nbsp;I'm passionate about developing unique and user-friendly mobile applications that have a positive impact.&nbsp;I have successfully developed a variety of mobile applications using software application development frameworks and programming languages such as Swift,&nbsp;SwifUI,&nbsp;Dart,&nbsp;Kotlin,&nbsp;Javascript,&nbsp;Flutter,&nbsp;and&nbsp;React-Native.&nbsp;I take pride in my ability to turn concepts into visually appealing and functional mobile applications.
+I'm a highly talented software developer with extensive experience developing native and cross-platform mobile applications.&nbsp;I'm passionate about developing unique and user-friendly mobile applications that have a positive impact.&nbsp;I have successfully developed a variety of mobile applications using software application development frameworks and programming languages such as Swift,&nbsp;SwifUI,&nbsp;Dart,&nbsp;Kotlin,&nbsp;Javascript,&nbsp;Flutter,&nbsp;and&nbsp;React-Native.&nbsp;I take pride in my ability to turn concepts into visually appealing and functional mobile applications.
 </p>
 
 <h2 align="center"> Featured Projects </h2>
